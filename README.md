@@ -12,3 +12,4 @@ returns all fun calls as a list
 call it from diff places without 'polution'
 
 asdasda
+asdsad
